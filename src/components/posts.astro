@@ -1,0 +1,36 @@
+---
+import { getCollection } from "astro:content";
+
+import FormattedDate from "./FormattedDate.astro";
+import Container from "./container.svelte";
+// import { POSTS_LIST } from '$lib/shared/shared.constant';
+// import PostCard from './post-card.svelte';
+
+const posts = (await getCollection("blog")).sort(
+  (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf(),
+);
+---
+
+<div class="pb-12 pt-16 sm:pb-4 lg:pt-12">
+  <!-- <Container>
+    <h1 class="text-2xl font-bold leading-7 text-slate-900">Thoughts</h1>
+  </Container> -->
+  <div class="divide-y divide-slate-100 border-t border-slate-100">
+    {
+      posts.map((post) => (
+        <article aria-labelledby={`${post?.data?.title}`} class="py-8">
+          <Container>
+            <div class="flex flex-col items-start">
+              <h2 class="text-lg font-bold text-slate-900 hover:text-blue-500 hover:underline">
+                <a href={`/blog/${post.slug}`}>{post.data.title}</a>
+              </h2>
+              <p class="date">
+                <FormattedDate date={post.data.pubDate} />
+              </p>
+            </div>
+          </Container>
+        </article>
+      ))
+    }
+  </div>
+</div>
