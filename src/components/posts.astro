@@ -7,7 +7,7 @@ import Container from "./container.svelte";
 // import PostCard from './post-card.svelte';
 
 const posts = (await getCollection("blog")).sort(
-  (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf(),
+  (a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf(),
 );
 ---
 
@@ -25,7 +25,7 @@ const posts = (await getCollection("blog")).sort(
                 <a href={`/blog/${post.slug}`}>{post.data.title}</a>
               </h2>
               <p class="date">
-                <FormattedDate date={post.data.pubDate} />
+                <FormattedDate date={post.data.publishedAt} />
               </p>
             </div>
           </Container>

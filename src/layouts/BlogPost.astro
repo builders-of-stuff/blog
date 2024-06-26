@@ -7,7 +7,7 @@ import Container from "../components/container.svelte";
 
 type Props = CollectionEntry<"blog">["data"];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, publishedAt, updatedDate, heroImage } = Astro.props;
 ---
 
 <html lang="en">
@@ -28,7 +28,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
                 <h1 class="mt-2 text-4xl font-bold text-slate-900">
                   {title}
                 </h1>
-                <FormattedDate date={pubDate} />
+                <FormattedDate date={publishedAt} />
               </div>
             </div>
           </header>
