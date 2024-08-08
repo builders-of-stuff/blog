@@ -10,7 +10,9 @@ I quit my job as a Software Developer in the fall of 2019 to pursue building Sho
 
 By spring of 2023 I had finally reached ramen profitability. I built 7 Shopify apps, a few AI-related products, and a couple crypto-related products. Only 3 of these products are still live and profitable today.
 
-I’m older, fatter, and poorer. Was it worth it? I guess so. It wasn’t easy for me, but if given the option to choose again I would choose to do the same.
+I’m older, fatter, and poorer.
+
+Was it worth it? I guess so. It wasn’t easy for me, but if given the option to choose again I would choose to do the same.
 
 ## Building cool stuff is not the same as building a business
 
@@ -18,7 +20,7 @@ My initial plan was to just copy existing apps but make them better and cheaper.
 
 The bulk of my attention went into learning and trying out new tech. I fully expected failure for my first few apps and that’s what I got. In return I got to experiment with and incorporate new tools into my stack that interested in me, tools that I had long yearned for and deemed optimal for shipping in the long run, tools like Kubernetes, GraphQL, Svelte, and design systems (Polaris).
 
-Unfortunately, the enthusiasm for new tech lasts only so long. I built 2 Shopify apps (related to product-page customizations) with this mindset, and after being live for months I only got a couple paying customers. I think one of them even forgot they had installed and were paying for my app because I didn’t see them use it at all. It didn’t even cover the cost of the databases so I shut both apps down.
+Unfortunately, the enthusiasm for new tech lasts only so long. I built 2 Shopify apps (related to product-page customizations) with this mindset and after being live for months I only got a couple paying customers. I think one of them even forgot they had installed and were paying for my app because I didn’t see them use it at all. It didn’t even cover the cost of the databases so I shut both apps down.
 
 It made me question whether I actually wanted to build a business or if I just wanted to play with new tech. I wanted both.
 
@@ -26,7 +28,7 @@ The hardest part for me was how little guidance there was. I took for granted th
 
 But none of this is available when you go solo. The only validation you’re doing something right in business is when someone pays you. You could write the cleanest code, use the latest tech, design the best UX, build the coolest features, but it all means nothing unless you get paid.
 
-## Product is often not the limiting factor (marketing matters)
+## Product is often not the limiting factor
 
 I built my first profitable product in the spring of 2021. It was a pickup/delivery scheduling app (Pickup & Delivery Buddy) targeted towards local businesses affected by COVID lockdowns.
 
@@ -38,7 +40,7 @@ So I continued building and I continued getting customers, but I found it odd th
 
 The biggest increase in growth trajectory (for both users and customers) actually came when I updated my app listing to better fit certain keywords. A day of copywriting and keyword research did more for my growth than weeks of design and development. I reached $1k MRR with this app by 2022.
 
-## Marketing really matters
+## Marketing matters
 
 After building a few more apps I found myself getting a lot more comfortable shipping fully built products from scratch, but the one thing that still bugged me was marketing.
 
@@ -56,7 +58,7 @@ So I built “AI Chat Bestie”, tweeted about it on Twitter and launched on Pro
 
 It was refreshing to learn later in his newsletter that this was not his first AI product, and that his first AI products flopped, despite having the same reach. Building a good product that solves a problem actually matters, but marketing is just as important, often times more important.
 
-I applied these learnings to my AI text to speech product, beepbooply. I researched keywords, wrote blog posts, created video content, listed on AI aggregators, and got thousands of users, though only a handful are paying, for a total of $300 MRR as of today. I should probably do something about that conversation rate.
+I applied these learnings to my AI text to speech product, beepbooply. I researched keywords, wrote blog posts, created video content, listed on AI aggregators, and got thousands of users, though only a handful are paying, for a total of $300 MRR as of today.
 
 ## But timing matters most
 
@@ -72,17 +74,19 @@ But what really made this clear to me was my latest Shopify app, a checkout cust
 
 ## It’s ok to stop half way
 
-One of the best things about working alone is that the choice is always yours. If I don’t like what I’m working on then I can just stop. If I wanted to make money working on things I didn't like then I should have just stayed employed. In hindsight, that may have been the better choice, but the possibility of creating an app capable of passive income was, and still is, too great to pass up on.
+One of the best things about working alone is the choice is always yours.
+
+If I don’t like what I’m working on then I can just stop. If I wanted to make money working on things I didn't like then I should have just stayed employed. In hindsight, that may have been the better choice, but the possibility of building my way to passive income was, and still is, too great to pass up on.
 
 My most challenging app was Subscription Buddy, a Shopify app for product subscriptions. It took me 4 months to build and it was the most complex app I built alone, by far. Not only was there the standard merchant-facing part along with the storefront-facing part, but it also involved building separate task queues for processing recurring payments, scheduling payments, retrying payments, handling failed payments, email notifications, updating orders, subscriptions, and all that good stuff.
 
-It was also my first time launching multiple interdependent services on a Kubernetes cluster, with the app server, redis, and another server for queues/workers. I know there are far easier methods, and there was absolutely no need to optimize this much for an app that wasn’t even launched yet, but I needed this. I needed to prove to myself that I could do this.
+It was also my first time launching multiple interdependent services on a Kubernetes cluster. I know there are far easier methods, and there was absolutely no need to optimize this much for an app that wasn’t even launched yet, but I needed this, I needed to prove to myself that I could do it.
 
 It was a completed and working product, but due to many miscommunications and some minor storefront/UI-related bugs found during the app submission process, it was rejected enough times that my ability to submit was suspended for a month.
 
 It was frustrating to say the least, having so many months of work just trashed. But after a week I realized this was a blessing, I had absolutely no desire to maintain such a beast of an app. Just spinning up the development environment required 7 terminal tabs, and fixing potential queue-related bugs would not have been fun.
 
-I’ve started and stopped so many projects at this point, but each one has provided me valuable first-hand experiences and lessons.
+I’ve started and stopped so many projects at this point, and each time showed me that's it's perfectly fine to do so. Nothing bad really happens, life goes on.
 
 I think it’s also worth mentioning that it’s extremely hard to compete and win when you’re building something half-heartedly. Putting in even 8 hours a day will be a struggle, but your top competitors will gladly put in 16 hour days because it’s play for them.
 
