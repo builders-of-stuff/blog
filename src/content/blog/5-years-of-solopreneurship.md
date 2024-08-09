@@ -28,16 +28,18 @@ And now I just don’t know.
 
 Financial freedom, what it meant to me was passive income — a good chunk of money coming in regularly and not having to think, let alone work for, it at all. And while I am making a good chunk of money now and working even less, it’s just not it. It’s a much appreciated improvement but it will never be the money printer I envisioned.
 
-The truth is that businesses are in constant flux. Customers pay only when provided something of enough value, but the perception of that value changes over time. It could be because of new technology, it could be changing business needs, or most likely just competition providing more value for cheaper. There’s always competition where there’s money to be made.
+The truth is that businesses are in constant flux. Customers pay only when provided something of enough value, but the perception of that value changes over time. It could be because of new technology, it could be changing business needs, or most likely just competition providing more value for cheaper. And there’s always competition where there’s money to be made.
 
 There’s nothing passive about making passive income this way because there will always be work trying to maintain or grow this equilibrium, else you risk losing it. It’s not like you can just build something awesome and have it run itself forever. Sure there are some better than others but ultimately it’s like this spectrum going from boring and stable to exciting and ever-changing. Both ways you lose because you either spend time building something you’re apathetic about or you spend time trying to keep up.
 
-This is supposed to be about peace and stability, from a financial aspect, but nothing on that spectrum will give that in its entirety. It will always be some compromise and I think that’s unacceptable. It’s just the wrong game to play.
+This is supposed to be about peace and stability, from a financial aspect, but nothing on that spectrum will give that in its entirety. It will always be some compromise and I think it’s futile to expect otherwise. There is no point in which you can say you’ve won and never have to think about money again, it’s just various points at which you are either winning or losing. It’s the wrong game to play. Or maybe I just haven’t won big enough yet, either way I’m tired.
 
-I think money is but a small part of life that in attempts to remove it completely I have inadvertently become obsessed over it.
+I think money is but a small part of life and in my attempts to remove it completely I have inadvertently become obsessed over it.
 
 Perhaps it was the wrong thing to focus on — a premature optimization of sorts.
 
 The question on my mind now a days, probably the question I should have started with, is what do I want to do with my life?
 
 And so far the best answer I’ve come up with is that I want to build stuff. Digital stuff specifically, it’s like one of the few things I enjoy doing while also being somewhat proficient in.
+
+Building stuff not for the sole purpose of financial security but because it is fun to build stuff. It’s fun to explore what could be and where that could take me.
