@@ -34,7 +34,7 @@ There’s nothing passive about making passive income this way because there wil
 
 This is supposed to be about peace and stability, from a financial aspect, but nothing on that spectrum will give that in its entirety. It will always be some compromise and I think it’s futile to expect otherwise. There is no point in which you can say you’ve won and never have to think about money again, it’s just various points at which you are either winning or losing. It’s the wrong game to play. Or maybe I just haven’t won big enough yet, either way I’m tired.
 
-I think money is but a small part of life and in my attempts to remove it completely I have inadvertently become obsessed over it.
+I think money is but a small part of life and in my attempts to remove it completely I have inadvertently become obsessed with it.
 
 Perhaps it was the wrong thing to focus on — a premature optimization of sorts.
 
