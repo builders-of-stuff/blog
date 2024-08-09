@@ -10,7 +10,7 @@ It’s not like I dreamt of becoming an entrepreneur, or solopreneur, indiehacke
 
 It feels quite odd, it feels like what I imagine it is to climb a big mountain. Starting on the ground looking up, the task looks daunting. But an hour or so in you find yourself climbing this rocky route and all you’re thinking about is your next hold. Every now and then you find a nice spot to rest and reflect, and I guess that’s what I want to do today. Just a little reflecting on where I’ve been, what I’ve done, and where I’m going.
 
-My apps reached $20k MRR about a month ago. My first 2 years I earned nothing, about a year later I reached ramen profitability, and the past year it’s scaled to what it is now. I’ve built 10 SaaS (Software-as-a-Service) products in this time for which 3 are still active and generating revenue. For the most part my strategy did not change, I just kept building stuff, and by the grace of the Shopify app store my apps found their way.
+My apps reached $20k MRR about a month ago. My first 2 years I earned nothing, about 2 year later I reached ramen profitability, and the past year it’s scaled to what it is now. I’ve built 10 SaaS (Software-as-a-Service) products in this time for which 3 are still active and generating revenue. For the most part my strategy did not change, I just kept building stuff, and by the grace of the Shopify app store my apps found their way.
 
 It’s pretty nice, having to work less yet make more than I ever did before. And with all this free time I’ve been able to embrace a healthier lifestyle and pursue other areas of development.
 
