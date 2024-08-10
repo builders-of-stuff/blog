@@ -40,6 +40,6 @@ Perhaps it was the wrong thing to focus on — a premature optimization of sorts
 
 The question on my mind now a days, probably the question I should have started with, is what do I want to do with my life?
 
-And so far the best answer I’ve come up with is that I want to build stuff. Digital stuff specifically, it’s like one of the few things I enjoy doing while also being somewhat proficient in.
+And so far the best answer I’ve come up with is that I want to build stuff. Digital stuff specifically, it’s like one of the few things I enjoy doing while also being somewhat decent in.
 
 Building stuff not for the sole purpose of financial security but because it is fun to build stuff. It’s fun to explore what could be and where that could take me.
