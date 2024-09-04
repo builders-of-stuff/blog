@@ -8,7 +8,7 @@ Today marks 5 years since I quit my job in pursuit of financial freedom.
 
 It’s not like I dreamt of becoming an entrepreneur, or solopreneur, indiehacker, whatever other name it may go by, I just thought my alternatives were unacceptable.
 
-It feels quite odd, it feels like what I imagine it is to climb a big mountain. Starting on the ground looking up, the task looks daunting. But an hour or so in you find yourself climbing this rocky route and all you’re thinking about is your next hold. Every now and then you find a nice spot to rest and reflect, and I guess that’s what I want to do today. Just a little reflecting on where I’ve been, what I’ve done, and where I’m going.
+It feels quite odd, it feels like what I imagine it is to climb a big mountain. Starting on the ground looking up, the task looks daunting. But an hour or so in you find yourself climbing this route and all you’re thinking about is your next hold. Every now and then there's nice spot to rest and reflect, and I guess that’s what I want to do today. Just a little reflecting on where I’ve been, what I’ve done, and where I’m going.
 
 My apps reached $20k MRR about a month ago. My first 2 years I earned nothing, about 2 year later I reached ramen profitability, and the past year it’s scaled to what it is now. I’ve built 10 SaaS (Software-as-a-Service) products in this time for which 3 are still active and generating revenue. For the most part my strategy did not change, I just kept building stuff, and by the grace of the Shopify app store my apps found their way.
 
