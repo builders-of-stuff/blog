@@ -72,3 +72,5 @@ https://github.com/builders-of-stuff/walrus-game-mint
 And if it's not too late please consider voting for Walrus game for the Breaking the Ice Sui Hackathon:
 
 https://community.breakingtheice.xyz/#projects
+
+https://www.youtube.com/watch?v=CTJWYDa5LxQ
