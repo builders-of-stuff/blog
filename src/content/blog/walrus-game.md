@@ -6,7 +6,7 @@ publishedAt: "2024-09-16"
 
 Walrus is a decentralized file store that integrates with Sui for coordination and payments. It can also store sites, and it was announced recently along with a hackathon so I figured I’d enter and try to build something.
 
-Walrus game is what I ended up building, a little game inspired by cookie clicker where you could mint your own walrus and then your walrus would have its own site and the more you clicked the walrus the more fish you would catch. And then you could cook the fish and trade it for penguins, who would then catch fish for you automatically, for which you could use to buy even more penguins.
+Walrus game is what I ended up building, a little game inspired by cookie clicker where you can mint your own walrus and then your walrus gets its own site and the more you click the walrus the more fish you catch. And then you can cook the fish and trade it for penguins, who then automatically catch fish for you, so you can buy more penguins.
 
 It was fun and I learned a lot, it also took a lot longer to build than expected but oh well.
 
