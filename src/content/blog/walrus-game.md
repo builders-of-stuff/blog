@@ -59,7 +59,7 @@ Every object is its own entity, with its specified permissions and fields, but a
 
 Maybe that’s what’s new, this concept of digital ownership and digital objects. I know NFTs have been around for a few years now, but for the first time it feels like we finally have a language specifically crafted for this kind of thing, and I guess it feels like that because that is exactly what Sui Move is.
 
-With the right language it becomes much easier to express oneself.
+With the right language it becomes much easier to your ideas.
 
 ## Walrus game
 
@@ -68,3 +68,7 @@ The site is currently available on Sui’s testnet and Walrus’s devnet so I do
 https://github.com/builders-of-stuff/walrus-game
 
 https://github.com/builders-of-stuff/walrus-game-mint
+
+And if it's not too late please consider voting for Walrus game for the Breaking the Ice Sui Hackathon:
+
+https://community.breakingtheice.xyz/#projects
