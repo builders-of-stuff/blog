@@ -6,7 +6,7 @@ publishedAt: "2024-08-08"
 
 Today marks 5 years since I quit my job in pursuit of financial freedom.
 
-My apps reached $20K MRR about a month ago. My first 2 years I earned nothing, about 2 year later I reached ramen profitability, and the past year it’s scaled to what it is now. I’ve built 10 SaaS (Software-as-a-Service) products in this time for which 3 are still active and generating revenue. For the most part my strategy did not change, I just kept building stuff, and by the grace of the Shopify app store my apps found their way.
+My apps reached $20K MRR about a month ago. My first 2 years I earned nothing, about 2 year later I reached ramen profitability, and the past year it’s scaled to what it is now. I’ve built 10 SaaS (Software-as-a-Service) products in this time for which 3 are still active and generating revenue. For the most part my strategy did not change: I just kept building stuff, and by the grace of the Shopify app store my apps found their way.
 
 It’s pretty nice being able to work less while at the same time making more than I ever did before. And with all this free time I’ve been able to embrace a healthier lifestyle and pursue other areas of development, but it still feels really odd.
 
