@@ -22,4 +22,4 @@ I think money is a small part of life and in my attempts to remove it completely
 
 Perhaps it was the wrong thing to focus on — a premature optimization of sorts.
 
-The question on my mind now a days, probably the question I should have started with, is what do I want to do with my life? And so far the best answer I’ve come up with is that I want to continue building stuff, digital stuff specifically, it’s like one of the few things I enjoy doing while also being somewhat decent at.
+The question on my mind now a days, probably the question I should have started with, is what do I want to do with my life? And so far the best answer I’ve come up with is that I want to continue building stuff, digital stuff specifically. It’s one of the few things I enjoy doing while also being somewhat decent at.
