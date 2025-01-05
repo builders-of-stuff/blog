@@ -4,4 +4,5 @@
 export const SITE_TITLE = "Builders of stuff";
 export const SITE_DESCRIPTION = "Builders of stuff";
 export const GITHUB_URL = "https://github.com/builders-of-stuff";
-export const TWITTER_URL = "https://twitter.com/kylebuildsstuff";
+export const YOUTUBE_URL = "https://www.youtube.com/@kylebuildsstuff";
+export const X_URL = "https://x.com/kylebuildsstuff";
