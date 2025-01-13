@@ -12,4 +12,4 @@ But now the master branch is tainted, regardless of what I think or feel. Pushin
 
 Beyond branches is sky, and beyond sky is space, and in space is sun. The sun is what sustains us, the sun is our source, there is no future without sun.
 
-So now I push to sun, because it's cooler than master and 1 character shorter than main, which also makes it objectively better.
+So now I push to sun, because it's cooler than master and 1 character shorter than main.
