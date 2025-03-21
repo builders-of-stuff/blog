@@ -4,6 +4,11 @@ interface Props {
 }
 
 const { date } = Astro.props;
+
+// Convert to UTC date at noon to avoid timezone issues
+// This ensures the date is displayed as specified without timezone shifting
+const fixedDate = new Date(date);
+fixedDate.setUTCHours(12, 0, 0, 0);
 ---
 
 <time
@@ -11,7 +16,7 @@ const { date } = Astro.props;
   class="order-first font-mono text-sm leading-7 text-slate-500"
 >
   {
-    date.toLocaleDateString("en-us", {
+    fixedDate.toLocaleDateString("en-us", {
       year: "numeric",
       month: "long",
       day: "numeric",
