@@ -1,8 +1,8 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import BaseHead from "../components/BaseHead.astro";
-import Header from "../components/Header.astro";
 import FormattedDate from "../components/FormattedDate.astro";
+import Footer from "../components/Footer.astro";
 
 type Props = CollectionEntry<"blog">["data"];
 
@@ -14,9 +14,7 @@ const { title, description, publishedAt, author, updatedDate } = Astro.props;
     <BaseHead title={title} description={description} />
   </head>
 
-  <body class="min-h-screen bg-white">
-    <Header />
-
+  <body class="min-h-screen bg-white relative">
     <main class="max-w-2xl mx-auto px-6 py-16">
       <article>
         <header class="mb-16">
@@ -24,9 +22,7 @@ const { title, description, publishedAt, author, updatedDate } = Astro.props;
             {title}
           </h1>
           <div class="flex items-center gap-2 text-sm text-slate-600">
-            <span class="font-mono text-sm leading-7 text-slate-500">
-              {author}
-            </span>
+            <span class="font-medium">{author}</span>
             <span>·</span>
             <FormattedDate date={publishedAt} />
           </div>
@@ -37,5 +33,6 @@ const { title, description, publishedAt, author, updatedDate } = Astro.props;
         </div>
       </article>
     </main>
+    <Footer />
   </body>
 </html>
