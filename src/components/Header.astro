@@ -1,110 +1,27 @@
 ---
 import GithubIcon from "./github-icon.svelte";
-import YoutubeIcon from "./youtube-icon.svelte";
-import XIcon from "./x-icon.svelte";
-import { GITHUB_URL, YOUTUBE_URL, X_URL } from "../consts";
-
-const projects = [
-  {
-    label: "Irarium",
-    url: "https://irarium.com",
-  },
-  {
-    label: "Tuskpets",
-    url: "https://tuskpets.buildersofstuff.com",
-  },
-  {
-    label: "Suiprise",
-    url: "https://suiprise.buildersofstuff.com",
-  },
-  {
-    label: "Walrus game",
-    url: "https://github.com/builders-of-stuff/walrus-game",
-  },
-  {
-    label: "GM Sui",
-    url: "https://gm.buildersofstuff.com",
-  },
-  {
-    label: "Svelte Sui wallet adapter",
-    url: "https://github.com/builders-of-stuff/svelte-sui-wallet-adapter",
-  },
-  {
-    label: "beepbooply",
-    url: "https://beepbooply.com",
-  },
-  {
-    label: "AI Chat Bestie",
-    url: "https://stately-axolotl-af08c8.netlify.app/",
-  },
-];
+import { GITHUB_URL } from "../consts";
 ---
 
-<header
-  class="bg-slate-50 lg:fixed lg:inset-y-0 lg:right-0 lg:flex lg:w-80 lg:items-start lg:overflow-y-auto"
->
-  <div
-    class="relative z-10 mx-auto px-4 pb-4 pt-10 sm:px-6 md:max-w-2xl md:px-4 lg:min-h-full lg:flex-auto lg:border-x lg:border-slate-200 lg:px-8 lg:py-12 xl:px-12"
-  >
-    <div class="text-center lg:text-left">
-      <p class="text-xl font-bold text-slate-900">
-        <a href="/">Builders of stuff</a>
-      </p>
-      <div class="mt-3 flex justify-center lg:justify-start gap-3 items-center">
-        <a
-          href={YOUTUBE_URL}
-          target="_blank"
-          class="text-gray-400 hover:text-gray-500"
-          aria-label="Youtube"
-        >
-          <YoutubeIcon />
-        </a>
-        <a
-          href={X_URL}
-          target="_blank"
-          class="text-gray-400 hover:text-gray-500"
-          aria-label="X"
-        >
-          <XIcon />
-        </a>
+<header class="border-b border-slate-200">
+  <div class="max-w-2xl mx-auto px-6 py-8">
+    <div class="flex flex-col items-center gap-4">
+      <a
+        href="/"
+        class="text-2xl font-bold tracking-tight text-slate-900 hover:text-slate-600"
+      >
+        Builders of stuff
+      </a>
+      <div class="flex items-center">
         <a
           href={GITHUB_URL}
           target="_blank"
-          class="text-gray-400 hover:text-gray-500"
+          class="text-slate-400 hover:text-slate-600 transition-colors"
           aria-label="Github"
         >
           <GithubIcon />
         </a>
       </div>
-
-      <!-- <About extraClasses="mt-12 hidden lg:block" /> -->
-
-      <!-- Projects -->
-      <section class="lg:mt-10">
-        <h2
-          class="sr-only flex items-center font-mono text-sm font-medium leading-7 text-slate-900 lg:not-sr-only"
-        >
-          <span>Stuff</span>
-        </h2>
-        <ul
-          class="hidden mt-2 gap-2 lg:flex justify-center text-base font-medium leading-7 text-slate-700 lg:flex-col"
-        >
-          {
-            projects.map(({ label, url }) => (
-              <li class="flex">
-                <a
-                  href={url}
-                  target="_blank"
-                  class="group flex items-center hover:text-blue-500 hover:underline"
-                  aria-label={label}
-                >
-                  <span class="hidden sm:block">{label}</span>
-                </a>
-              </li>
-            ))
-          }
-        </ul>
-      </section>
     </div>
   </div>
 </header>
